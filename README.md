@@ -1,2 +1,2 @@
 # AndWallet
-A simple wallet app to keep track of daily income and spending
+A simple Android wallet app to keep track of daily income and spending
