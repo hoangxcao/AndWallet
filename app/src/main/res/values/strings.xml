@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndWallet</string>
+    <string name="text_summary_notification">This view shows your current balance:</string>
+    <string name="text_add">ADD</string>
+    <string name="text_expense">EXPENSE</string>
+    <string name="text_income">INCOME</string>
+    <string name="text_summary">SUMMARY</string>
+    <string name="text_clear">CLEAR</string>
+    <string name="text_delete">DELETE</string>
+    <string name="hint_item">Enter item</string>
+    <string name="hint_amount">Enter amount</string>
+    <string name="text_total_balance">Total Balance:</string>
+    <string name="text_total_expense">Total Expense:</string>
+    <string name="text_total_income">Total Income:</string>
+    <string name="text_currency">$\u0020</string>
+    <string name="text_balance">Your current balance is:\u0020</string>
+    <string name="text_empty_field">This field cannot be empty</string>
+    <string name="text_date">SELECT DATE</string>
+</resources>
